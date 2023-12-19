@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45276016-b543-4cdd-9f52-e276d5ae4e3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrakticsJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr1/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr11/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr12/InteractiveCardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr13/FileEditorSwingGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr14/BoundedWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr14/IWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr14/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr14/UnfairWaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr14/WaitList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr15/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr15/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr15/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr16/ExceptionHandlingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr2/CommandLineArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr2/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr2/HarmonicSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr2/RandomArraySorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr2/SumArrayElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr3/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr3/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr3/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr3/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr3/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr3/Leg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Hand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Head.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr4/Leg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr5/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr6/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr7/FootballMatchApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/AnimationWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/CircleShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/ImageWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/RandomShapesWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/RectangleShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr8/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pr9/Priceable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ZlBxJugGOoG6nbKXmSLPuvZ4IL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/dryy/IdeaProjects/PrakticsJava",
+    "onboarding.tips.debug.path": "C:/Users/dryy/IdeaProjects/PrakticsJava/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dryy\IdeaProjects\PrakticsJava" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45276016-b543-4cdd-9f52-e276d5ae4e3c" name="Changes" comment="" />
+      <created>1702987032929</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702987032929</updated>
+      <workItem from="1702987034072" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
